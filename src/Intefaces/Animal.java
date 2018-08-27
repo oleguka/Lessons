@@ -12,6 +12,6 @@ public class Animal implements Info{
     }
 
     public void showInfo() {
-        System.out.println("Id is " + this.id);
+        System.out.println("Id it's " + this.id);
     }
 }
