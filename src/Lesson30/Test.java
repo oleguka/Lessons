@@ -21,5 +21,4 @@ public class Test {
 
         // Double, Integer, Long, Byte
     }
-
 }
